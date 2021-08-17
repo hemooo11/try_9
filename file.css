@@ -1,0 +1,263 @@
+
+
+
+head{
+  margin: 0;
+}
+
+body{
+  background-color: #E4F9F5 ;
+  margin: 0;
+  padding: 0 ;
+
+
+}
+
+
+
+.top_container{
+  width: 60% ;
+  text-align: center;
+  background-color: #E4F9F5 ;
+  padding: 100px 0 40px ;
+  margin: auto ;
+
+}
+
+
+
+.p_1{
+  font-size:450%;
+  font-family: 'Bebas Neue', cursive;
+  color: black ;
+
+  margin: 0;
+  padding: 0;
+  padding-bottom: 25px ;
+
+}
+.p_2{
+  font-size: 3.6rem;
+  font-family: 'Sacramento', cursive;
+  color: #66BFBF ;
+  font-weight: bold;
+  margin: 0;
+  padding: 5px 0 0 0 ;
+
+}
+
+
+.chef-image{
+  width: 400px;
+  border-radius: 20%;
+}
+
+
+.the-best{
+  text-align: center;
+  font-size: 2.6rem;
+  font-family: 'Indie Flower', cursive;
+  margin-bottom: 0 ;
+  margin-top: 0 ;
+}
+
+
+.the-best-2{
+  text-align: center;
+  font-size: 2.6rem;
+  font-family: 'Indie Flower', cursive;
+  margin-top: 0 ;
+}
+
+/*
+
+.truck-image-continer{
+  width: 60% ;
+  text-align: center;
+  background-color: #E4F9F5 ;
+  padding: 100px 0 70px ;
+  margin: auto ;
+}
+
+
+.truck-image{
+  width: 150% ;
+
+}
+*/
+
+
+.meal_1{
+  text-align: left;
+  width: 70% ;
+  margin: 10% auto 5% auto;
+
+  line-height: 2;
+
+}
+
+.meals-image{
+  width: 35% ;
+  float: left;
+  margin-right: 30px ;
+
+}
+
+.meals{
+  text-align: left;
+  width: 70% ;
+  margin: 40px auto 50px auto;
+  line-height: 2;
+
+}
+
+
+.first-hr{
+  text-align: center;
+  border: dotted #66BFBF 6px ;
+  border-bottom: none ;
+  width: 5% ;
+  margin: 100px auto ;
+
+}
+
+
+.padding_hr{
+
+  text-align: center;
+  border: dotted #66BFBF 6px ;
+  border-bottom: none ;
+  border-left: none ;
+  border-right: none ;
+  width: 10% ;
+  margin: auto ;
+
+}
+
+.padding_div{
+  width: 60%
+
+  margin: auto;
+  text-align: center;
+  margin: auto;
+}
+
+.wr8_3nb-hr{
+
+  text-align: center;
+  border: dotted #66BFBF 6px ;
+  border-bottom: none ;
+  border-left: none ;
+  border-right: none ;
+  width: 10% ;
+  margin: auto ;
+
+}
+
+
+
+
+
+h3{
+  font-family: 'Indie Flower', cursive;
+  color: #11999E ;
+  font-size: 200% ;
+  margin-bottom: 0 ;
+}
+
+.h3-meal-1{
+  font-size: 160%;
+}
+
+
+.h3-Crunchy-fingers{
+  font-size: 140% ;
+}
+
+.h3-CARNIVAL-BURGER{
+  font-size: 140% ;
+}
+
+.h3-Dynamite-burger{
+  font-size: 140%;
+}
+
+.h3-Perry-Cheetos{
+  font-size: 155% ;
+}
+
+.h3-Classic-burger{
+  font-size: 155% ;
+}
+
+
+
+.h3-Dynamite-Cous{
+  font-size: 140% ;
+}
+
+.h3-Family-box{
+  font-size: 155% ;
+}
+
+
+.price{
+  font-size: 1.5rem;
+}
+
+.price-water{
+  font-size: 1.5rem;
+  margin-top: 0 ;
+}
+
+
+
+
+
+
+
+
+.contact-me{
+  color: #EAF6F6 ;
+  margin: 0 ;
+  padding-top: 30px ;
+  padding-bottom: 30px ;
+  font-size: 1.5rem;
+}
+
+
+
+a{
+  color: #11999E ;
+  margin: 10px 20px ;
+  text-decoration: none;
+  font-size: 1.2rem ;
+}
+
+
+
+
+
+a:hover{
+  color: #EAF6F6 ;
+}
+
+
+
+.copy-right{
+  color: #EAF6F6 ;
+  font-size: 1.2rem;
+  padding: 20px 0 ;
+}
+
+
+.location{
+  font-size: 1.6rem;
+}
+
+.bottom-container{
+  text-align: center;
+  background-color: #66BFBF;
+  margin: 50px 0 20px 0 ;
+  padding-top: 30px ;
+  padding-bottom: 20px ;
